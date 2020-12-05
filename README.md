@@ -49,7 +49,7 @@ A list of papers and other resources on language-guided image editing.
 - SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning. *EMNLP2020*. [paper](http://arxiv.org/abs/2009.09566) [code](https://github.com/tsujuifu/pytorch_sscr)<br>
   Tsu-Jui Fu, Xin Eric Wang, Scott Grafton, Miguel Eckstein, and William Yang Wang. (UCSB, UCSC)
 
-- Text as Neural Operator: Image Manipulation by Text Instruction. *CVPRW2020*. [paper<br>](http://arxiv.org/abs/2008.04556)
+- Text as Neural Operator: Image Manipulation by Text Instruction. *CVPRW2020*. [paper](http://arxiv.org/abs/2008.04556)<br>
   Tianhao Zhang, Hung-Yu Tseng, Lu Jiang, Honglak Lee, Irfan Essa, and Weilong Yang. (Google)
 
 ## Contributor 
