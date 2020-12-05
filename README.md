@@ -5,8 +5,8 @@ A list of papers and other resources on language-guided image editing.
 ## Contents
 
 - [Datasets](#Datasets)
-- [Single-Turn Editing](#Single-Turn Editing)
-- [Multi-Turn Editing](#Multi-Turn Editing)
+- [Single-Turn Editing](#Single-Turn-Editing)
+- [Multi-Turn Editing](#Multi-Turn-Editing)
 
 ## Datasets
 
@@ -23,18 +23,25 @@ A list of papers and other resources on language-guided image editing.
 
 ## Single-Turn Editing
 
-- Semantic Image Synthesis via Adversarial Learning. *ICCV2017*. [paper](http://arxiv.org/abs/1707.06873) [code](https://github.com/woozzu/dong_iccv_2017)
+- Semantic Image Synthesis via Adversarial Learning. [paper](http://arxiv.org/abs/1707.06873) [code](https://github.com/woozzu/dong_iccv_2017)
+
   Hao Dong, Simiao Yu, Chao Wu, and Yike Guo. (Imperial College London)
+
 - Language-Based Image Editing with Recurrent Attentive Models. *CVPR2018*. [paper](http://arxiv.org/abs/1711.06288) [code](https://github.com/Jianbo-Lab/LBIE)
   Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, and Xiaodong Liu. (UCB, MSR)
+
 - Learning to Globally Edit Images with Textual Description. *ArXiv2018*. [paper](http://arxiv.org/abs/1810.05786) [code](https://github.com/sohuren/Img_edit_with_text)
   Hai Wang, Jason D. Williams, and SingBing Kang. (TTIC, Apple, MSR)
+
 - Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language. *NeurlPS2018*. [paper](http://arxiv.org/abs/1810.11919) [code](https://github.com/woozzu/tagan)
   Seonghyeon Nam, Yunji Kim, and Seon Joo Kim. (Yonsei University)
+
 - Bilinear Representation for Language-Based Image Editing Using Conditional Generative Adversarial Networks. *ICASSP2019* [paper](https://doi.org/10.1109/ICASSP.2019.8683008) [code](https://github.com/vtddggg/BilinearGAN_for_LBIE)
   Xiaofeng Mao, Yuefeng Chen, Yuhong Li, Tao Xiong, Yuan He, and Hui Xue. (Alibaba)
+
 - ManiGAN: Text-Guided Image Manipulation. *CVPR2020*. [paper](http://arxiv.org/abs/1912.06203) [code](https://github.com/mrlibw/ManiGAN)
   Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, and Philip H. S. Torr. (Oxford, UHK)
+
 - A Benchmark and Baseline for Language-Driven Image Editing. *ACCV2020*. [paper](http://arxiv.org/abs/2010.02330) [code](https://github.com/jshi31/LDIE_ACCV)
   Jing Shi, Ning Xu, Trung Bui, Franck Dernoncourt, Zheng Wen, and Chenliang Xu. (University of Rochester, Adobe)
 
