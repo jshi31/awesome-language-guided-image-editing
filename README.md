@@ -23,7 +23,7 @@ A list of papers and other resources on language-guided image editing.
 
 ## Single-Turn Editing
 
-- Semantic Image Synthesis via Adversarial Learning. [paper](http://arxiv.org/abs/1707.06873) [code](https://github.com/woozzu/dong_iccv_2017)
+- Semantic Image Synthesis via Adversarial Learning. [paper](http://arxiv.org/abs/1707.06873) [code](https://github.com/woozzu/dong_iccv_2017) 
 
   Hao Dong, Simiao Yu, Chao Wu, and Yike Guo. (Imperial College London)
 
