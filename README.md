@@ -12,11 +12,12 @@ A list of papers and other resources on language-guided image editing.
 
 **None paired images**
 
-- CUB
-- Oxford-102
+- [Oxford-102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/): The **flowers** consisting of 102 flower categories are chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. 
 
 **Paired images**
-
+- [CUB Bird](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html): an image dataset with 6,033 photos of 200 bird species (mostly North American). 
+- [COCO](http://cocodataset.org/#download): **natural scenes**.
+- [Multi-Modal-CelebA-HQ](https://github.com/weihaox/Multi-Modal-CelebA-HQ): a large-scale **face** image dataset that has 30,000 high-resolution face images selected from the CelebA dataset by following CelebA-HQ. Each image has high-quality segmentation mask, sketch, descriptive text, and image with transparent background.
 - GIER
 - CoDraw
 - i-CLEVER
@@ -35,7 +36,11 @@ A list of papers and other resources on language-guided image editing.
   Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, and Philip H. S. Torr. (Oxford, UHK)
 - A Benchmark and Baseline for Language-Driven Image Editing. *ACCV2020*. [paper](http://arxiv.org/abs/2010.02330) [code](https://github.com/jshi31/LDIE_ACCV)<br>
   Jing Shi, Ning Xu, Trung Bui, Franck Dernoncourt, Zheng Wen, and Chenliang Xu. (University of Rochester, Adobe)
-
+- Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation. *NeurIPS2020*. [paper](https://arxiv.org/abs/2010.12136) [code](https://github.com/mrlibw/Lightweight-Manipulation)
+  Bowen Li, Xiaojuan Qi, Philip H. S. Torr, Thomas Lukasiewicz. (Oxford, UHK)
+- TediGAN: Text-Guided Diverse Image Generation and Manipulation. *ArXiv2020*. [paper](https://arxiv.org/abs/2012.03308)] [code](https://github.com/weihaox/TediGAN)] [Multi-Modal-CelebA-HQ](https://github.com/weihaox/Multi-Modal-CelebA-HQ)
+  Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu. (Tsinghua, UCL, CUHKSZ)
+  
 ## Multi-Turn Editing
 
 - A Multimodal Dialogue System for Conversational Image Editing. *NeurIPSW2018*. [paper](http://arxiv.org/abs/2002.06484) <br>
