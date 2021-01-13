@@ -12,11 +12,11 @@ A list of papers and other resources on language-guided image editing.
 
 **None paired images**
 
-- CUB
 - Oxford-102
 
 **Paired images**
-
+- CUB Bird
+- COCO
 - GIER
 - CoDraw
 - i-CLEVER
@@ -35,7 +35,9 @@ A list of papers and other resources on language-guided image editing.
   Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, and Philip H. S. Torr. (Oxford, UHK)
 - A Benchmark and Baseline for Language-Driven Image Editing. *ACCV2020*. [paper](http://arxiv.org/abs/2010.02330) [code](https://github.com/jshi31/LDIE_ACCV)<br>
   Jing Shi, Ning Xu, Trung Bui, Franck Dernoncourt, Zheng Wen, and Chenliang Xu. (University of Rochester, Adobe)
-
+- TediGAN: Text-Guided Diverse Image Generation and Manipulation. *ArXiv2020*. [paper](https://arxiv.org/abs/2012.03308)] [code](https://github.com/weihaox/TediGAN)]
+  Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu. (Tsinghua, UCL, CUHKSZ)
+  
 ## Multi-Turn Editing
 
 - A Multimodal Dialogue System for Conversational Image Editing. *NeurIPSW2018*. [paper](http://arxiv.org/abs/2002.06484) <br>
